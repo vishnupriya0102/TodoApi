@@ -6,7 +6,7 @@ compatibility_date = "2023-12-01"
 
  [[kv_namespaces]]
  binding = "KV"
- id = "0d28fe24b14c4ac49ebc782e1d5072c5"
+ id = "<<your id>>"
 
 # [[r2_buckets]]
 # binding = "MY_BUCKET"
